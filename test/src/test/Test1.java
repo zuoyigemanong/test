@@ -2,6 +2,7 @@ package test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		System.out.println("²âÊÔ·ÖÏíÏîÄ¿µ½±¾µØ²Ö¿â");
+		System.out.println("æµ‹è¯•åˆ†äº«é¡¹ç›®åˆ°æœ¬åœ°ä»“åº“");
+                //
 	}
 }
